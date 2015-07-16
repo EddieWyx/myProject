@@ -1,0 +1,20 @@
+******************************************************************************
+Instructions to run this Simple Messenger
+Type Make to compile the code 
+
+You have to start a server first by typing
+
+./assignment1 s [port number]
+
+Then you can start 4 more clients and each type
+
+./assignment c [port number]
+
+after program start
+
+type help for instructions
+
+------------------------------------------------------------------------------
+
+client need to join the server network first in order to sent messenger to each
+other
