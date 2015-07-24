@@ -1,0 +1,19 @@
+*******************************************************************************
+Project Name: Simple Group Messenger 
+    Details:  Group of 5 messenger
+     
+Environment : 
+    
+    0. Use  create_avd.py in the python SDK to create 5 avds
+       
+	python create_avd.py [#of Avds]  [path to the sdk]
+
+    1. You need to use run_avd.py and set_redir.py to set up the testing
+       environment. 
+       
+	python run_avd.py 5
+       
+	pyhton set_redir.py 10000
+
+    2. install the apk to the 5 avds
+    3. and you good to start 
