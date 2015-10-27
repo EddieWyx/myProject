@@ -1,0 +1,14 @@
+
+** Install Node **
+1. https://changelog.com/install-node-js-with-homebrew-on-os-x/
+2. npm install socket.io
+
+** Install Mongodb ** 
+1. brew install mongodb
+2. mkdir -p /data/db
+
+** start the Mongodb **
+1. sudo mongod
+
+** start the server **
+1. node server.js 
